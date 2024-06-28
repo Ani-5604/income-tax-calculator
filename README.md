@@ -6,6 +6,7 @@
     <title>Income Tax Calculator</title>
     <style>
         body {
+            background-image: linear-gradient(to bottom, rgba(91, 68, 58, 0.8), rgba(66, 66, 80, 0.8)), url('income.jpg' );
             font-family: Arial, sans-serif;
             background-color: #c3c4c6;
         }
